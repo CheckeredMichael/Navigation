@@ -1,0 +1,23 @@
+{
+    "name": "checkeredmichael/navigation",
+    "description": "",
+    "authors": [
+        {
+            "name": "Michael Brooks",
+            "email": "me@michaelbrooks.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Checkeredmichael/Navigation/Services"
+        ],
+        "psr-0": {
+            "Checkeredmichael\\Navigation\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
