@@ -5,7 +5,7 @@ This is a dynamic navigation which will be used within my Admin package. Feel fr
   I would like to thank [Josh Benham](https://github.com/joshbenham) for his help and support. (He did create this himself,
   I have just stolen it from him, but will hope to make it my own).
   
-  To install, place "checkeredmichael/navigation": "dev-master", to your require part in composer.json.
+  To install, place "checkeredmichael/navigation": "0.1", to your require part in composer.json.
   
   To use the package within another package, you should create an events.php where your routes are and add...
   
