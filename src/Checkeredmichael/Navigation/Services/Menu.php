@@ -126,7 +126,7 @@ class Menu {
 
         if($item['icon']) {
             $output .= sprintf(
-                '<i class="fa fa-%s"></i> ',
+                '<i class="glyphicon glyphicon-%s"></i> ',
                 $item['icon']
             );
         }
