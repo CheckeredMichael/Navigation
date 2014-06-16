@@ -1,4 +1,4 @@
-https://travis-ci.org/cmfcmf/OpenWeatherMap-PHP-Api.svg?branch=master
+[![Build Status](https://travis-ci.org/cmfcmf/OpenWeatherMap-PHP-Api.svg?branch=master)](https://travis-ci.org/cmfcmf/OpenWeatherMap-PHP-Api)
 
 This is a dynamic navigation which will be used within my Admin package. Feel free to fork this and try it out for yourself.
   If you have any problems then please feel free to ask me any questions. This can be implemented into any package, but I will
